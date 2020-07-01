@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="design_project_ee3070.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="set_string_db_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FAPDadmin</Value>
+    </Setting>
+    <Setting Name="set_string_db_pw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FAPDadmin</Value>
+    </Setting>
+    <Setting Name="set_string_db_dbname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dp_db</Value>
+    </Setting>
+    <Setting Name="set_string_db_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="set_string_db_host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
